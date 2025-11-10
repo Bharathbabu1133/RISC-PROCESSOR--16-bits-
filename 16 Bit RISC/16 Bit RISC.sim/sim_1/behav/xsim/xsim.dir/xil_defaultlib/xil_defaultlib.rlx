@@ -1,0 +1,14 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sim_1/new/decoder_unittest.v,1756143293,verilog,,,,decoder_unittest,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sim_1/new/main_test.v,1756155991,verilog,,,,main_test,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sim_1/new/regfile_unittest.v,1756152412,verilog,,,,regfile_unittest,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/alu.v,1756154904,verilog,,D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/code.v,,alu,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/code.v,1756151701,verilog,,D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sim_1/new/decoder_unittest.v,,inst_dec,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/ctrl_unit.v,1756155713,verilog,,D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/fake_ram.v,,ctrl_unit,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/fake_ram.v,1756154779,verilog,,D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/pc_unit.v,,fake_ram,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/pc_unit.v,1756151804,verilog,,D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/reg_file.v,,pc_unit,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/reg_file.v,1756151609,verilog,,D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sim_1/new/regfile_unittest.v,,reg_file,,,../../../../../../Vivado/2025.1/Vivado/data/rsb/busdef,,,,,

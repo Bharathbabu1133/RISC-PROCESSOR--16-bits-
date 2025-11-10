@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sources_1/new/code.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inst_dec
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Codes/16 Bit RISC/16 Bit RISC.srcs/sim_1/new/decoder_unittest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_unittest
